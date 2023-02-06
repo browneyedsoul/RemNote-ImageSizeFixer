@@ -3,7 +3,8 @@
   "id": "image-size-fixer",
   "name": "Image Size Fixer",
   "author": "Min-Ki Park",
-  "repoUrl": "",
+  "repoUrl": "https://github.com/browneyedsoul/RemNote-ImageSizeFixer",
+  "unlisted": true,
   "version": {
     "major": 0,
     "minor": 1,
